@@ -120,7 +120,7 @@ export default function Hero() {
                         >
                             <Box sx={{ width: 8, height: 8, borderRadius: '50%', bgcolor: '#0DCDC2' }} />
                             <Typography variant="caption" sx={{ fontSize: '0.85rem', fontWeight: 600, letterSpacing: '1px', textTransform: 'uppercase' }}>
-                                Trust Track Travels
+                                Trusted by pilgrims traveling from the UK, USA & Europe
                             </Typography>
                         </Box>
                     </motion.div>
@@ -140,7 +140,7 @@ export default function Hero() {
                             textShadow: '0 4px 20px rgba(0,0,0,0.5)'
                         }}
                     >
-                        Hassle-Free Pilgrimage & City Transfers
+                        Stress-Free Airport Transfers & City Travel for Umrah & International Pilgrims
                     </Typography>
 
                     {/* Primary Text */}
@@ -155,7 +155,7 @@ export default function Hero() {
                             maxWidth: '650px'
                         }}
                     >
-                        From airport pickups to Umrah and Ziyarat trips, we ensure a smooth, safe, and luxurious travel experience. Book with confidence and focus on what truly matters.
+                        From the moment you land in Saudi Arabia until your return — we provide reliable, punctual, and pilgrim-friendly transportation so you can focus on your worship, not your travel worries.
                     </Typography>
 
                     {/* Button */}
